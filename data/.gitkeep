@@ -1,6 +1,6 @@
 # This is the directory where data will be generated and stored when data.py is run.
 # Don't delete this directory because then data.py won't know where to generate data.
-# If you ever accidentially delete this directory, just make a new one named data.
+# If you ever accidentally delete this directory, just make a new one named data.
 # If you want to change the name of the directory where data is stored from data to
 # something else or generate data in a different directory, you will need to go to
 # __init_.py in the utils folder in the folder data_code and change the variable
