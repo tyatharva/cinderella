@@ -1,4 +1,4 @@
-# CINDEreLla: Convective Initiation Nowcasts using DEep Learning
+# CINDEreLlA: Convective Initiation Nowcasts using DEep LeArning
 Work in progress, link to product running live on website will be added when complete
 ## About
 Documentation will be added as comments in code as code is added and finalized
