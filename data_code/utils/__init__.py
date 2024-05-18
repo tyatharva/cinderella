@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May 17 20:07:02 2024
-
-@author: atyagi
-"""
 
 from cdo import Cdo
 import boto3

@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 28 18:02:55 2023
-
-@author: atyagi
-"""
 
 import argparse
 import xarray as xr
